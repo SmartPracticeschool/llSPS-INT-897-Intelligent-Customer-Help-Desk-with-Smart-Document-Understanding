@@ -11,5 +11,5 @@ In this, we provide another option. If the customer question is about the operat
 To take it a step further, we use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This improves the answers returned from the queries.
 
 # Node-Red UI Link :
-https://node-red-znzdl.eu-gb.mybluemix.net/ui
+https://node-red-avav.eu-gb.mybluemix.net/ui
 

@@ -26,7 +26,7 @@ const DiscoveryV1 = require('watson-developer-cloud/discovery/v1');
   */
 function main(params) {
   return new Promise(function (resolve, reject) {
-    let discovery
+    let discovery;
     if (params.iam_apikey){
       discovery = new DiscoveryV1({
         'iam_apikey': params.iam_apikey,

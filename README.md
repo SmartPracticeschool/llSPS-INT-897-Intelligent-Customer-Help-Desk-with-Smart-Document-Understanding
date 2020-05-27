@@ -13,3 +13,6 @@ To take it a step further, we use the Smart Document Understanding feature of Wa
 ## Node-Red UI Link :
 https://node-red-avav.eu-gb.mybluemix.net/ui
 
+## Explanation video Link : 
+https://drive.google.com/file/d/1tzDvWshe1KFO5g4VEhecdwyPd6S8cZqD/view?usp=sharing
+
